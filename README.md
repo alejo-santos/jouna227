@@ -8,5 +8,5 @@ I’m @jouna227, and I’m thrilled to share a bit about myself. 🌟
 💞 I’m open to collaborating on Exploratory Data Analysis (EDA) projects or anything related to Python. Let’s build something awesome together!
 📫 You can reach me via email at Jouna227@gmail.com.
 💬 Connect with me on Discord (@JaySantosPR) or find me on Instagram (@JaySantosPR).
-😄 My pronouns? Let’s go with “Try/Me”—a playful twist!
+😄 My pronouns? Let’s go with “Try/Me”
 ⚡ Did you know? I have a soft spot for math. Calculus, in particular, gets my neurons firing! 🧠
