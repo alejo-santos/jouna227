@@ -2,7 +2,6 @@ Hi there! 👋
 
 I’m @jouna227, and I’m thrilled to share a bit about myself. 🌟
 
-About Me
 👀 I’m passionate about video games, especially Call of Duty. When I’m not gaming, you’ll find me immersed in movies or exploring new ones.
 🌱 Currently, I’m diving deep into the world of Data Science. I’m learning essential tools like Python, Pandas, Matplotlib, and Seaborn. Exploring data and uncovering insights excites me!
 🤍 Hablo Español
