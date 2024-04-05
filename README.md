@@ -6,17 +6,8 @@ About Me
 👀 I’m passionate about video games, especially Call of Duty. When I’m not gaming, you’ll find me immersed in movies or exploring new ones.
 🌱 Currently, I’m diving deep into the world of Data Science. I’m learning essential tools like Python, Pandas, Matplotlib, and Seaborn. Exploring data and uncovering insights excites me!
 🤍 Hablo Español
-
-
-Collaboration Opportunities
 💞 I’m open to collaborating on Exploratory Data Analysis (EDA) projects or anything related to Python. Let’s build something awesome together!
-
-Reach Out
 📫 You can reach me via email at Jouna227@gmail.com.
 💬 Connect with me on Discord (@JaySantosPR) or find me on Instagram (@JaySantosPR).
-
-Pronouns
 😄 My pronouns? Let’s go with “Try/Me”—a playful twist!
-
-Fun Fact
 ⚡ Did you know? I have a soft spot for math. Calculus, in particular, gets my neurons firing! 🧠
