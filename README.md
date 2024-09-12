@@ -2,8 +2,8 @@ Hello there! 👋
 
 I’m @jouna227, and here’s a bit about me. 🌟
 
-I am a proud husband and father of two wonderful kids. I also serve as a life group leader at Chets Creek Church, Hodges Campus.
-
+👨‍👩‍👧‍👦 I am a proud husband and father of two wonderful kids. 
+✝️ I serve as a life group leader at Chets Creek Church, Hodges Campus.
 👀 I enjoy playing video games with my kids.
 🌱 I recently graduated from the Data Science program at TripleTen. I am passionate about Machine Learning, Python, SciKit, Pandas, Matplotlib, and Seaborn. I love exploring data and uncovering the hidden stories within it.
 🤍 I am from Puerto Rico and I speak Spanish.
