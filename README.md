@@ -3,7 +3,7 @@
 I’m @jouna227, and here’s a bit about me. 🌟
 
 - 👨‍👩‍👧‍👦 Proud husband and father of two wonderful kids.
-- ✝️ Life group leader at Chets Creek Church, Hodges Campus.
+- ✝️ Leader at my church.
 - 🎮 Enjoy playing video games and spending time with my kids.
 - 🌱 Recently graduated from the Data Science.
 - 💻 Passionate about Machine Learning, Python, SciKit, Pandas, Matplotlib, and Seaborn.
